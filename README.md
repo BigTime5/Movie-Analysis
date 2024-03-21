@@ -25,3 +25,8 @@ QUESTION 3:WHAT DOES NUMBERS REPRESENT
 .Are there any seasonal trends in movie revenue (e.g., higher revenue during the summer or holiday seasons)?
 
 CORRELATION ANALYSIS
+
+## Movie Presentation
+
+You can find the Movie Presentation PowerPoint file [here](MOVIE%20PRESENTATION.pptx).
+
